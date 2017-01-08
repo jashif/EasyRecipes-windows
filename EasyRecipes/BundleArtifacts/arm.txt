@@ -1,0 +1,4 @@
+MainPackage=C:\Users\jaboobac\Documents\Visual Studio 2013\Projects\EasyRecipes\EasyRecipes\bin\ARM\Release\EasyRecipes_1.1.1.9_Bundle\EasyRecipes_1.1.1.9_ARM.appx
+SymbolPackage=C:\Users\jaboobac\Documents\Visual Studio 2013\Projects\EasyRecipes\EasyRecipes\AppPackages\EasyRecipes_1.1.1.9_Test\EasyRecipes_1.1.1.9_ARM.appxsym
+ResourcePack=C:\Users\jaboobac\Documents\Visual Studio 2013\Projects\EasyRecipes\EasyRecipes\bin\ARM\Release\EasyRecipes_1.1.1.9_Bundle\EasyRecipes_1.1.1.9_scale-100.appx
+ResourcePack=C:\Users\jaboobac\Documents\Visual Studio 2013\Projects\EasyRecipes\EasyRecipes\bin\ARM\Release\EasyRecipes_1.1.1.9_Bundle\EasyRecipes_1.1.1.9_scale-140.appx

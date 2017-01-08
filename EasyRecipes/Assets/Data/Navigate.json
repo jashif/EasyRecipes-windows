@@ -1,0 +1,30 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Starters",
+    "Icon": "/Assets/DataImages/Item-bb9b89f8-376f-4751-aafc-e5d3c2ab303b.png",
+    "Target": "StartersListPage",
+    "_id": "54986a6c-2549-4e40-974c-ff7524e147df"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Mains",
+    "Icon": "/Assets/DataImages/Item-5b7e62bf-29b9-4305-a5e3-cf2f06db3d5d.png",
+    "Target": "Main1ListPage",
+    "_id": "50a7ee31-be89-477c-bbc9-156d8a509aad"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Desserts",
+    "Icon": "/Assets/DataImages/Item-40aec9cb-9618-4bc1-9fe1-e777bd20efaa.png",
+    "Target": "DessertsListPage",
+    "_id": "119a6572-39fa-49ca-b30d-52d2db74839f"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Beverages",
+    "Icon": "/Assets/DataImages/Item-683d5acd-2bac-4f1a-ac48-32c4a7d1c968.png",
+    "Target": "BeveragesListPage",
+    "_id": "44fffa42-764c-4b7f-9497-98e403c3f8f7"
+  }
+]

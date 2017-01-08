@@ -1,0 +1,49 @@
+﻿<Application
+    x:Class="EasyRecipes.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+     xmlns:vm="using:EasyRecipes.ViewModel"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:commands="using:AppStudio.Common.Commands"
+    xmlns:controls="using:AppStudio.Common.Controls"
+    xmlns:html2xaml="using:AppStudio.Common.Controls.Html2Xaml"
+    xmlns:converters="using:AppStudio.Common.Converters"
+    xmlns:fonts="using:AppStudio.Common.Fonts"
+    xmlns:navigation="using:AppStudio.Common.Navigation"
+    xmlns:local="using:EasyRecipes">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="Styles/AppTheme.xaml"/>
+                <ResourceDictionary Source="Styles/FontSizes.xaml"/>
+                <ResourceDictionary Source="Styles/Layouts/ListLayouts.xaml"/>
+                <ResourceDictionary Source="Styles/PlatformStyles.xaml"/>
+                <ResourceDictionary Source="Styles/StyleDictionaries.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <x:String x:Key="AppName">EasyRecipes</x:String>
+            <x:String x:Key="AppTitle">EasyRecipes</x:String>
+            <!-- Html2Xaml -->
+            <html2xaml:Properties x:Key="Properties"/>
+
+            <!-- VariableSizedGrid -->
+            <controls:VariableSizedGrid x:Key="VariableSizedGrid"/>
+
+            <!--NavigationService-->
+            <navigation:NavigationService x:Key="NavigationService"/>
+
+            <!--Commands-->
+            <commands:ActionCommands x:Key="ActionCommands" />
+
+            <!--Fonts-->
+            <fonts:FontSettings x:Key="FontSettings" />
+
+            <!-- Converters -->
+            <converters:VisibilityConverter x:Key="VisibilityConverter"/>
+            <converters:StringVisibilityConverter x:Key="StringVisibilityConverter"/>
+            <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+            <converters:GridLengthConverter x:Key="GridLengthConverter"/>
+            <vm:VmLocator x:Key="vmlocator"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

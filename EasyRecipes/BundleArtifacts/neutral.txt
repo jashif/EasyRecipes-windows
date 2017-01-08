@@ -1,0 +1,4 @@
+MainPackage=c:\users\jaboobac\documents\visual studio 2013\Projects\EasyRecipes\EasyRecipes\bin\Release\EasyRecipes_1.1.0.6_Bundle\EasyRecipes_1.1.0.6_AnyCPU.appx
+SymbolPackage=c:\users\jaboobac\documents\visual studio 2013\Projects\EasyRecipes\EasyRecipes\AppPackages\EasyRecipes_1.1.0.6_Test\EasyRecipes_1.1.0.6_AnyCPU.appxsym
+ResourcePack=c:\users\jaboobac\documents\visual studio 2013\Projects\EasyRecipes\EasyRecipes\bin\Release\EasyRecipes_1.1.0.6_Bundle\EasyRecipes_1.1.0.6_scale-100.appx
+ResourcePack=c:\users\jaboobac\documents\visual studio 2013\Projects\EasyRecipes\EasyRecipes\bin\Release\EasyRecipes_1.1.0.6_Bundle\EasyRecipes_1.1.0.6_scale-140.appx

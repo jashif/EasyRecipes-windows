@@ -1,0 +1,38 @@
+[
+  {
+    "Title": "Daily menu special",
+    "dessert1": "orem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis rutrum quam.",
+    "main1": "Cras porttitor est justo, sit amet rutrum orci facilisis ac. Quisque sagittis a arcu at dictum. Suspendisse viverra diam at felis vehicula gravida. Phasellus non cursus magna. Phasellus nunc nisl, congue et pharetra eu, dictum a nisi. ",
+    "starter1": "Quisque consequat auctor urna tincidunt bibendum. Quisque vitae commodo neque. Ut vitae eleifend dolor, nec elementum nibh. ",
+    "Subtitle": "Price: $10",
+    "Image": "/Assets/DataImages/Content.jpg",
+    "_id": "54eef4412f8295ad047b582c"
+  },
+  {
+    "Title": "Kids menu",
+    "dessert1": "Vivamus sagittis purus vel elementum suscipit. Nulla lectus ligula, dapibus sit amet elit vel, facilisis bibendum libero. ",
+    "main1": "molestie vitae metus. Sed velit velit, condimentum porta congue id, varius ac erat. Quisque eu justo non felis luctus rhoncus sed ut risus. Nulla sed erat dui. Integer facilisis sapien non turpis volutpat viverra.",
+    "starter1": "Duis consectetur sit amet neque in posuere. Vestibulum vitae sagittis ipsum. Nulla non ante sit amet eros dictum bibendum. Donec et convallis urna. Morbi id venenatis nunc.",
+    "Subtitle": "Price: $5",
+    "Image": "/Assets/DataImages/Content-1.jpg",
+    "_id": "54eef4412f8295ad047b582d"
+  },
+  {
+    "Title": "Menu for two",
+    "dessert1": "Praesent sagittis imperdiet vulputate. In hac habitasse platea dictumst. Donec ullamcorper vehicula imperdiet. ",
+    "main1": "Nam porttitor accumsan posuere. Morbi vehicula lorem et mi eleifend luctus eu quis quam. Nullam ut tellus vel purus luctus ornare. ",
+    "starter1": " Phasellus at odio vitae ante luctus facilisis. Fusce imperdiet viverra aliquam. Sed ac nibh commodo, blandit arcu a, facilisis metus. Phasellus vehicula ultricies elementum. Aenean eros ligula, vestibulum vitae felis vel, commodo volutpat augue. ",
+    "Subtitle": "Price: $18",
+    "Image": "/Assets/DataImages/Content-2.jpg",
+    "_id": "54eef4412f8295ad047b582e"
+  },
+  {
+    "Title": "Menu for four",
+    "dessert1": "Curabitur accumsan tortor nibh, id viverra ante egestas non. Phasellus tortor mauris, ornare vitae ultricies quis,[Enter name]",
+    "main1": " Duis sodales elementum lacus id suscipit. Nunc eget justo porttitor, faucibus tellus eu, rhoncus risus. Suspendisse potenti. ",
+    "starter1": "Nulla facilisi. Mauris neque odio, egestas ac scelerisque a, ullamcorper id nibh. Fusce ut mollis massa. Nunc venenatis nisi sed consequat pulvinar. ",
+    "Subtitle": "Price: $35",
+    "Image": "/Assets/DataImages/Content-3.jpg",
+    "_id": "54eef4412f8295ad047b582f"
+  }
+]
